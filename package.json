@@ -1,0 +1,12 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "API básica Node.js com CRUD",
+  "main": "api/users.js",
+  "scripts": {
+    "start": "node api/users.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
